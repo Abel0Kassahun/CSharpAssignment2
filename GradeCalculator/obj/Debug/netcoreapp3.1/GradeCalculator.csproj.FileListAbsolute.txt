@@ -1,0 +1,14 @@
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\obj\Debug\netcoreapp3.1\GradeCalculator.csproj.AssemblyReference.cache
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\obj\Debug\netcoreapp3.1\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\obj\Debug\netcoreapp3.1\GradeCalculator.AssemblyInfoInputs.cache
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\obj\Debug\netcoreapp3.1\GradeCalculator.AssemblyInfo.cs
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\obj\Debug\netcoreapp3.1\GradeCalculator.csproj.CoreCompileInputs.cache
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\bin\Debug\netcoreapp3.1\GradeCalculator.exe
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\bin\Debug\netcoreapp3.1\GradeCalculator.deps.json
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\bin\Debug\netcoreapp3.1\GradeCalculator.runtimeconfig.json
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\bin\Debug\netcoreapp3.1\GradeCalculator.runtimeconfig.dev.json
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\bin\Debug\netcoreapp3.1\GradeCalculator.dll
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\bin\Debug\netcoreapp3.1\GradeCalculator.pdb
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\obj\Debug\netcoreapp3.1\GradeCalculator.dll
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\obj\Debug\netcoreapp3.1\GradeCalculator.pdb
+E:\My files\Programming\C#\CSharpAssignment2\GradeCalculator\obj\Debug\netcoreapp3.1\GradeCalculator.genruntimeconfig.cache
